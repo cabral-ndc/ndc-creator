@@ -1,5 +1,5 @@
 
-## welcome 👋
+## Welcome 👋
 
 Estudante de Engenharia da computação e automação.
 Sou uma entusiasta da automatização de processos e estou aprofundando meus estudos em UX/UI design. Além disso, sou voluntária em iniciativas que apoiam a comunidade tecnológica. Acredito que ajudar outros estudantes, mesmo a quilômetros de distância, é uma forma de construir um futuro mais sólido para todos.
